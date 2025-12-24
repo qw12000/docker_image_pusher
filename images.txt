@@ -11,4 +11,5 @@
 #selenium/standalone-chrome:latest
 #oldiy/chrome-novnc:latest
 #m1k1o/neko:latest
-m1k1o/neko:firefox
+#m1k1o/neko:firefox
+nurdism/neko:latest
