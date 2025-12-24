@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-alpine
-jlesage/firefox
-kylemanna/openvpn:2.4
-registry.k8s.io/pause:3.9
+#alpine
+#jlesage/firefox
+#kylemanna/openvpn:2.4
+registry.k8s.io/pause:3.6
