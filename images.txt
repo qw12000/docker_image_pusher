@@ -8,4 +8,5 @@
 #jlesage/firefox
 #kylemanna/openvpn:2.4
 #registry.k8s.io/pause:3.6
-selenium/standalone-chrome:latest
+#selenium/standalone-chrome:latest
+https://us-south1-docker.pkg.dev/v2/k8s-artifacts-prod/images/pause/manifests/3.6
