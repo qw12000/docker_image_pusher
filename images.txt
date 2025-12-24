@@ -7,3 +7,4 @@
 alpine
 jlesage/firefox
 kylemanna/openvpn:2.4
+pause:3.6
