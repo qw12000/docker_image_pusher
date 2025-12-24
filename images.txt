@@ -10,4 +10,5 @@
 #registry.k8s.io/pause:3.6
 #selenium/standalone-chrome:latest
 #oldiy/chrome-novnc:latest
-m1k1o/neko:latest
+#m1k1o/neko:latest
+m1k1o/neko:firefox
