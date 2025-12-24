@@ -7,4 +7,5 @@
 #alpine
 #jlesage/firefox
 #kylemanna/openvpn:2.4
-registry.k8s.io/pause:3.6
+#registry.k8s.io/pause:3.6
+selenium/standalone-chrome:latest
