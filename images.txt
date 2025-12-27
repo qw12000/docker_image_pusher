@@ -13,4 +13,5 @@
 #m1k1o/neko:latest
 #m1k1o/neko:firefox
 #nurdism/neko:latest
-jenkins/jenkins
+#jenkins/jenkins
+nginx
