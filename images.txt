@@ -15,5 +15,4 @@
 #nurdism/neko:latest
 #jenkins/jenkins
 #nginx
-m
-nextcloud
+nextcloud:latest
