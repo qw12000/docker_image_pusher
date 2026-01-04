@@ -22,3 +22,4 @@
 #browserless/chrome:latest
 #herberthe0229/iptv-sources:latest
 #m1k1o/neko:chromium
+ghcr.io/m1k1o/neko/google-chrome
