@@ -23,4 +23,5 @@
 #herberthe0229/iptv-sources:latest
 #m1k1o/neko:chromium
 #ghcr.io/m1k1o/neko/google-chrome
-lscr.io/linuxserver/webtop:latest
+#lscr.io/linuxserver/webtop:latest
+lscr.io/linuxserver/webtop:ubuntu-kde
