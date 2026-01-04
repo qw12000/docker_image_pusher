@@ -21,4 +21,5 @@
 #zerotier
 #browserless/chrome:latest
 #herberthe0229/iptv-sources:latest
-m1k1o/neko:chromium
+#m1k1o/neko:chromium
+m1k1o/neko/google-chrome
