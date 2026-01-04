@@ -20,3 +20,4 @@
 #redis:6.0
 #zerotier
 #browserless/chrome:latest
+herberthe0229/iptv-sources:latest
