@@ -24,4 +24,5 @@
 #m1k1o/neko:chromium
 #ghcr.io/m1k1o/neko/google-chrome
 #lscr.io/linuxserver/webtop:latest
-lscr.io/linuxserver/webtop:ubuntu-kde
+#lscr.io/linuxserver/webtop:ubuntu-kde
+jlesage/firefox
