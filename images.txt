@@ -25,4 +25,5 @@
 #ghcr.io/m1k1o/neko/google-chrome
 #lscr.io/linuxserver/webtop:latest
 #lscr.io/linuxserver/webtop:ubuntu-kde
-jlesage/firefox
+#jlesage/firefox
+billchurch/webssh2:latest
