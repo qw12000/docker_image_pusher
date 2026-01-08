@@ -26,4 +26,4 @@
 #lscr.io/linuxserver/webtop:latest
 #lscr.io/linuxserver/webtop:ubuntu-kde
 #jlesage/firefox
-billchurch/webssh2:latest
+dbcawa/webssh
