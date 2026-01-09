@@ -27,3 +27,4 @@
 #lscr.io/linuxserver/webtop:ubuntu-kde
 #jlesage/firefox
 jrohy/webssh
+cgycms/websql:latest
