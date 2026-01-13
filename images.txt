@@ -28,4 +28,5 @@
 #jlesage/firefox
 #jrohy/webssh
 #cgycms/websql:latest
-halohub/halo:2.21
+#halohub/halo:2.21
+sqlchat/sqlchat
