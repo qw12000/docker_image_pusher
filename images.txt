@@ -26,5 +26,6 @@
 #lscr.io/linuxserver/webtop:latest
 #lscr.io/linuxserver/webtop:ubuntu-kde
 #jlesage/firefox
-jrohy/webssh
-cgycms/websql:latest
+#jrohy/webssh
+#cgycms/websql:latest
+halohub/halo:2.21
