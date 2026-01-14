@@ -29,4 +29,5 @@
 #jrohy/webssh
 #cgycms/websql:latest
 #halohub/halo:2.21
-sqlchat/sqlchat
+#sqlchat/sqlchat
+iib0011/omni-tools:latest
