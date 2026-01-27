@@ -31,4 +31,5 @@
 #halohub/halo:2.21
 #sqlchat/sqlchat
 #iib0011/omni-tools:latest
-onlyoffice/documentserver
+#onlyoffice/documentserver
+jenkins/jenkins:lts
