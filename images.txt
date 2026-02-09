@@ -32,4 +32,5 @@
 #sqlchat/sqlchat
 #iib0011/omni-tools:latest
 #onlyoffice/documentserver
-jenkins/jenkins:lts
+#jenkins/jenkins:lts
+jgraph/drawio
