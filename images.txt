@@ -34,3 +34,4 @@
 #onlyoffice/documentserver
 #jenkins/jenkins:lts
 jgraph/drawio
+jippi/pritunl:latest
