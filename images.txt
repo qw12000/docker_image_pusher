@@ -35,3 +35,4 @@
 #jenkins/jenkins:lts
 jgraph/drawio
 jippi/pritunl:latest
+d3vilh/openvpn-server:latest
