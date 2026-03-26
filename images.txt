@@ -36,4 +36,4 @@
 #jgraph/drawio
 #d3vilh/openvpn-server:latest
 #jippi/pritunl:latest
-mongo:2.4
+mongo:4.4
