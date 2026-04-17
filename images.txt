@@ -37,4 +37,5 @@
 #d3vilh/openvpn-server:latest
 #jippi/pritunl:latest
 #mongo:4.4
-itushan/tsterm
+#itushan/tsterm
+ollama/ollama
