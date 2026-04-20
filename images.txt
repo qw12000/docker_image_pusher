@@ -39,4 +39,5 @@
 #mongo:4.4
 #itushan/tsterm
 #ollama/ollama
-ghcr.io/hostinger/hvps-openclaw:latest
+#ghcr.io/hostinger/hvps-openclaw:latest
+ghcr.io/openclaw/openclaw:latest
