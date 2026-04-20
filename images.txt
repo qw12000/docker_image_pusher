@@ -38,4 +38,5 @@
 #jippi/pritunl:latest
 #mongo:4.4
 #itushan/tsterm
-ollama/ollama
+#ollama/ollama
+ghcr.io/hostinger/hvps-openclaw:latest
