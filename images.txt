@@ -40,4 +40,5 @@
 #itushan/tsterm
 #ollama/ollama
 #ghcr.io/hostinger/hvps-openclaw:latest
-ghcr.io/openclaw/openclaw:latest
+#ghcr.io/openclaw/openclaw:latest
+iib0011/omni-tools:latest
