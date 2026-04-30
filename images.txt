@@ -41,4 +41,5 @@
 #ollama/ollama
 #ghcr.io/hostinger/hvps-openclaw:latest
 #ghcr.io/openclaw/openclaw:latest
-iib0011/omni-tools:latest
+#iib0011/omni-tools:latest
+openeuler/tomcat:11.0.18-oe2403sp3
