@@ -43,4 +43,5 @@
 #ghcr.io/openclaw/openclaw:latest
 #iib0011/omni-tools:latest
 #openeuler/tomcat:11.0.18-oe2403sp3
-python:3.9-slim
+#python:3.9-slim
+gaozih/pvzge:latest
