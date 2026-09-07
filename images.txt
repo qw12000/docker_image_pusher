@@ -47,4 +47,4 @@
 #gaozih/pvzge:latest
 #stirlingpdf/stirling-pdf:latest
 #stirlingpdf/stirling-pdf:latest
-stirling-pdf:latest
+registry.cn-hangzhou.aliyuncs.com/jeson/stirling-pdf:latest
