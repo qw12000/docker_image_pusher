@@ -35,7 +35,7 @@
 #jenkins/jenkins:lts
 #jgraph/drawio
 #d3vilh/openvpn-server:latest
-jippi/pritunl:latest
+#jippi/pritunl:latest
 #mongo:4.4
 #itushan/tsterm
 #ollama/ollama
@@ -46,3 +46,4 @@ jippi/pritunl:latest
 #python:3.9-slim
 #gaozih/pvzge:latest
 #stirlingpdf/stirling-pdf:latest
+stirlingpdf/stirling-pdf:latest
