@@ -46,4 +46,5 @@
 #python:3.9-slim
 #gaozih/pvzge:latest
 #stirlingpdf/stirling-pdf:latest
-stirlingpdf/stirling-pdf:latest
+#stirlingpdf/stirling-pdf:latest
+stirling-pdf:latest
