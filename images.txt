@@ -48,4 +48,5 @@
 #stirlingpdf/stirling-pdf:latest
 #stirlingpdf/stirling-pdf:latest
 #registry.cn-hangzhou.aliyuncs.com/jeson/stirling-pdf:latest
-docker.io/wu529778790/panhub.shenzjd.com:latest
+#docker.io/wu529778790/panhub.shenzjd.com:latest
+jiangrui1994/cloudsaver:latest
