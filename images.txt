@@ -35,7 +35,7 @@
 #jenkins/jenkins:lts
 #jgraph/drawio
 #d3vilh/openvpn-server:latest
-jippi/pritunl:latest
+#jippi/pritunl:latest
 #mongo:4.4
 #itushan/tsterm
 #ollama/ollama
@@ -50,3 +50,4 @@ jippi/pritunl:latest
 #registry.cn-hangzhou.aliyuncs.com/jeson/stirling-pdf:latest
 #docker.io/wu529778790/panhub.shenzjd.com:latest
 #jiangrui1994/cloudsaver:latest
+ghcr.io/senshinya/moontv:latest
