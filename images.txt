@@ -50,4 +50,4 @@
 #registry.cn-hangzhou.aliyuncs.com/jeson/stirling-pdf:latest
 #docker.io/wu529778790/panhub.shenzjd.com:latest
 #jiangrui1994/cloudsaver:latest
-ghcr.io/senshinya/moontv:latest
+hzexe/moontv:latest
