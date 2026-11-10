@@ -35,5 +35,4 @@
 #docker.io/wu529778790/panhub.shenzjd.com:latest
 #jiangrui1994/cloudsaver:latest
 #hzexe/moontv:latest
-#nginx:1.31.6
-ghcr.io/bunkerity/bunkerweb-all-in-one:latest
+bunkerity/bunkerweb-all-in-one:latest
