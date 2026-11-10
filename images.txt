@@ -4,22 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 #xiaoyaliu/alist
-#alpine
-#jlesage/firefox
-#kylemanna/openvpn:2.4
-#registry.k8s.io/pause:3.6
-#selenium/standalone-chrome:latest
-#oldiy/chrome-novnc:latest
-#m1k1o/neko:latest
-#m1k1o/neko:firefox
-#nurdism/neko:latest
-#jenkins/jenkins
-#nginx
-#nextcloud:latest
-#mysql:5.7
-#redis:6.0
-#zerotier
-#browserless/chrome:latest
 #herberthe0229/iptv-sources:latest
 #m1k1o/neko:chromium
 #ghcr.io/m1k1o/neko/google-chrome
