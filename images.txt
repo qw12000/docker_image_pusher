@@ -51,4 +51,5 @@
 #docker.io/wu529778790/panhub.shenzjd.com:latest
 #jiangrui1994/cloudsaver:latest
 #hzexe/moontv:latest
-nginx:1.31.6
+#nginx:1.31.6
+bunkerity/bunkerweb-all-in-one:latest
